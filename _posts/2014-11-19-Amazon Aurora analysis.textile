@@ -11,8 +11,6 @@ The information about Aurora on the web is limited. The technical analysis below
 
 If anyone can get me an Aurora priority preview, I'm appreciated.
 
----
-
 bq. "Amazon Aurora supports two kinds of replicas. ... You can also create MySQL Read Replicas based on MySQL’s binlog-based replication engine."[2]
 
 bq. "The Amazon Aurora database engine is designed to be wire-compatible with MySQL 5.6 using the InnoDB storage engine. Certain MySQL features like the MyISAM storage engine are not available with Amazon Aurora."[2]
